@@ -1,0 +1,35 @@
+github (for those in a hurry, so tldr)
+These are bash commands, cause thats what i use, but it could be different in other shells. Probably not that differet though
+
+1: sign up for github
+2: settings part a(credentials)
+3: settings part b(create remote repo)
+   b1 - if working in a group, you might want to have a "development" branch
+4: download software( i use git bash, the desktop app works but its harder to tell what went wrong if something does through the gui app)
+5: local settings -git needs your credentials locally
+6: initialize your repository
+
+how git works:
+your program -> add files to the changelist (tracking)-> commit your changes to the local repo -> push your changes to the remote branch
+
+
+so really this means at the start, 4 commands are relevant (maybe 4 1/2 )
+(quotation marks mine)
+
+"git init" intializes the repository
+"git add" adds files to tracking, so you can commit them later
+"git commit" commits to local branch.
+"git push[some option]" pushes the commited files to the remote reopsitory (specifically, the branch you specify)
+"git push origin master" pushes your commit to the repository you cloned the repo from, specifically the master branch.
+
+on the command line side of things the relevant navigation stuff is
+cd (diectory name) - moves you to that directory
+ls -lists the files in the current directory
+
+I think of it like a series of rooms. You walk into a room, you look around, see a door labeled desktop, 
+then walk though that door and maybe look around again. Eventually, you find your way to the room with the file you want in it.
+
+
+
+ 
+

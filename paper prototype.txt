@@ -1,0 +1,56 @@
+So a thought i had was that there is a set of problems with combat in srpgs that has to do with a lack of 
+variety when it comes to objectives, and usually a lack of subgoals in combat. For example, most of the time, the victory condition
+is to kill all the enemies.Even when victory conditions vary, there are rarely any other things going on, like capturing enemy characters, or collecting info on an enemy type, or destroying supllies, or any of the other things 
+you might see a little bit in something like xcom or battletech. The other thing is that these things are usually things you have to go out of your way to do, rather than something you want to be doing anyways, and as such need 
+additional systems built to reward doing them in an external manner(like xp gains, money, extra characters or the like) this prototyping assignment gives me the opportunity to test it, 
+so i figured i could come up with a game in order to test this mechaninic out.
+
+From another angle, the games wider theme of combating fear with information gave me the general idea  of this mechanic:
+
+You know the point in a movie where the enemy army brings out the secret weapon, it fires, and the heroes are like "holy crap, what is that, we are so screwed" and then as it fires a few times, they gradually figure out how it works, 
+what its doing, and then beat it? Thats what i want this mechanic to do.
+
+Game: Feel the Power of My (insert doomsday weapon here)
+2 players:
+evil army, 
+scrappy rebellion
+kinda goofy parody of the sort of saturday morning cartoon end of season fight with the big bad. 
+
+    
+Players are supposed to guess what is firing at them from the properties it exhibits as it does so, then use the appropriate tools(cards maybe) in order to beat it. Play ends when all rebels die or all weapon systems are disabled.
+
+big robot w 3 weapons 
+1: annihilation laser // 10 - 15 damage, precise, laser, complex, 
+2: catastrophe cannon // 5 damage, area of effect, cannon, crude
+3: devestation blade // 20 damage, precse, crude, melee. 
+
+
+10 engineers/60 stormtroopers/30 specialists
+
+
+motivations:
+//this is weird. i know my motivation for doing this, i know the player motivation in the actual context, but since im having to blow up a mechanic into a (p simple) paper game, its a little wonky
+
+Puzzle solving, excitement, competition.
+
+
+
+the villan shuffles the weapons deck, then draws 3. These form the weapon systems the rebellion has to shut down.
+the villan fires the weapon, which has a bunch of chararacteristics(color,type, force, damage, etc) 
+the rebellion choosesfrom a set of options//dunno if this should be random
+
+scatter strike //scatters the chars, fires weak at separate parts, beats precise and melee, loses to AOE
+fire on my target //concentates fire, bunches up the chars 
+spanner in the works//engineer// tooses a wrench, beats the 'complex' and 'personal shield' traits
+heroic charge // stormtrooper// a char runs at the enemy. enemy only kills them on next shotdiscord
+mirror shield // a char uses a nearby piece of polished steel to bounce a laser // good vs laser, 
+gun to a swordfight //specialist // a char fires at the joint that holds a melee weapon
+
+
+
+
+
+//im going to need to draw up a list of weapon characteristics
+note on card design:
+need enough weapons to have a bit of variety enough weapon charactaristics to add a little bit of amiguity , enough player actions to have 2 per "class" and nonaffiliated ones, 
+and we are wanting each class to have something it can do to the enemy doomday machine.

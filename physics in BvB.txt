@@ -1,0 +1,8 @@
+In BvB rotation is a rotation in degrees, modified by turnspeed and by deltatime. Turnspeed is largely just so that it can be adjusted from
+the editor. Deltatime is so that rotation is smooth. If it wasnt there then rotation would be fixed to incremnts of whatever the turn speed is.
+ 
+Acceleration is added by button press using fixed update, rather than update. It takes in a diraction and a magnitutude(called acceleration here) and adds that much force to that direction.
+
+The bullet is currently busted. it uses trasform.position to move and doesnt cuurently change direction with its parent. it also needs to be able to tell the difference between colliding with a ball, a ship, or a brick.
+
+The ball is just a rigidbody that has a 2dcollider on it  
